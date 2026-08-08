@@ -9,9 +9,9 @@
 ###
 
 <p align="left">
-  <a href="https://www.youtube.com/@NottKibu"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52"></a>
-  <a href="https://www.twitch.tv/nottkibu"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitch/default.svg" width="52"></a>
-  <a href="https://notkibu.itch.io/"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/itch/default.svg" width="52"></a>
+  <a href="https://www.youtube.com/@KibuDev"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52"></a>
+  <a href="https://www.twitch.tv/KibuDev"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitch/default.svg" width="52"></a>
+  <a href="https://kibudev.itch.io/"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/itch/default.svg" width="52"></a>
 </p>
 
 ###
